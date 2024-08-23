@@ -13,10 +13,10 @@ The project is designed with a multi-layer architecture to handle raw data inges
 3. **Silver Layer:** Additional transformations are applied, including aggregations and time-based transformations.
 4. **Gold Layer:** Final transformations for quantifiable metrics and load time tracking.
 
-![Architecture](https://github.com/DivineSamOfficial/Traffic-and-Roads-Databricks-ETL-Pipeline-with-Unity-Catalog/blob/main/Assets/SysArch.jpg)
+![Architecture](https://github.com/BhaskarJha89/Assessment_Project/blob/main/Traffic-Databricks-ETL-Pipeline/Assets/SysArch.jpg)
 
 ## Databricks ETL Flow
-![ETL Flow](path-to-image)
+![ETL Flow](https://github.com/BhaskarJha89/Assessment_Project/blob/main/Traffic-Databricks-ETL-Pipeline/Assets/ETL%20Flow.png)
 
 ## Key Features
 
